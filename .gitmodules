@@ -3,4 +3,4 @@
 	url = https://github.com/Microsoft/vcpkg
 [submodule "websocketspp"]
 	path = Release/libs/websocketpp
-	url = https://github.com/zaphoyd/websocketpp/
+	url = https://github.com/chris-sg/websocketpp/
